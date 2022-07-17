@@ -64,7 +64,7 @@ body {
     font-size: 18px;
     font-weight: 700;
     color: hsl(229, 23%, 23%);
-    text-shadow: 0px 0px 1.2px hsl(229, 23%, 23%);
+   /* text-shadow: 0px 0px 1.2px hsl(229, 23%, 23%);*/
 }
 
 .age {
@@ -106,7 +106,7 @@ body {
     font-weight: 700;
     font-size: 18px;
     color: hsl(229, 23%, 23%);
-    text-shadow: 0px 0px 1.3px hsl(229, 23%, 23%);
+    /*text-shadow: 0px 0px 1.3px hsl(229, 23%, 23%); */
     /* margin-left: .98em; */
 }
 
